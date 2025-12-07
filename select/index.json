@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "RICO",
+  "base_artist": "NMIXX",
+  "createdAt": "2025-12-07T08:11:40.492508Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rico (feat. Frank Ocean)",
+      "artist": "MellowHype feat. Frank Ocean",
+      "has_synced": true,
+      "path": "select/01_Rico_(feat._Frank_Ocean)_MellowHype_feat._Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rico (Feat. Frank Ocean)",
+      "artist": "MellowHype",
+      "has_synced": true,
+      "path": "select/02_Rico_(Feat._Frank_Ocean)_MellowHype.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jungle (Rico Nasty Remix)",
+      "artist": "Fred again..",
+      "has_synced": false,
+      "path": "select/03_Jungle_(Rico_Nasty_Remix)_Fred_again...txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Born in Puerto Rico",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/04_Born_in_Puerto_Rico_Paul_Simon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BAD NEWS (Feat. Rico Nasty)",
+      "artist": "IDK",
+      "has_synced": true,
+      "path": "select/05_BAD_NEWS_(Feat._Rico_Nasty)_IDK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "495 (feat. Rico Nasty, YungManny, Big Flock, Big JAM & Weensey)",
+      "artist": "IDK feat. YungManny, Big Flock, Big JAM, Rico Nasty & Weensey",
+      "has_synced": false,
+      "path": "select/06_495_(feat._Rico_Nasty,_YungManny,_Big_Flock,_Big_JAM_&_Weensey)_IDK_feat._YungManny,_Big_Flock,_Big_JAM,_Rico_Nasty_&_Weensey.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "495 (feat. Rico Nasty, YungManny, Big Flock, Big JAM & Weensey)",
+      "artist": "IDK",
+      "has_synced": false,
+      "path": "select/07_495_(feat._Rico_Nasty,_YungManny,_Big_Flock,_Big_JAM_&_Weensey)_IDK.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Girl Crush (feat. Rico Nasty)",
+      "artist": "Boys Noize",
+      "has_synced": true,
+      "path": "select/08_Girl_Crush_(feat._Rico_Nasty)_Boys_Noize.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Puerto Rico",
+      "artist": "IDK",
+      "has_synced": true,
+      "path": "select/09_Puerto_Rico_IDK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rico Mambo",
+      "artist": "Breakfast Club",
+      "has_synced": false,
+      "path": "select/10_Rico_Mambo_Breakfast_Club.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "TAKE IT (feat. Lord Infamous & Rico Nasty)",
+      "artist": "Juicy J",
+      "has_synced": false,
+      "path": "select/11_TAKE_IT_(feat._Lord_Infamous_&_Rico_Nasty)_Juicy_J.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Butt Naked (feat. Rico Nasty)",
+      "artist": "A$AP Ferg",
+      "has_synced": true,
+      "path": "select/12_Butt_Naked_(feat._Rico_Nasty)_A$AP_Ferg.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "SUGARPARENTS (feat. Rico Nasty)",
+      "artist": "Aminé feat. Rico Nasty",
+      "has_synced": true,
+      "path": "select/13_SUGARPARENTS_(feat._Rico_Nasty)_Aminé_feat._Rico_Nasty.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sugarparents (feat. Rico Nasty)",
+      "artist": "Aminé",
+      "has_synced": true,
+      "path": "select/14_Sugarparents_(feat._Rico_Nasty)_Aminé.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "FMU (feat. Rico Nasty)",
+      "artist": "Brooke Candy feat. Rico Nasty & Boys Noize",
+      "has_synced": true,
+      "path": "select/15_FMU_(feat._Rico_Nasty)_Brooke_Candy_feat._Rico_Nasty_&_Boys_Noize.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "FMU (feat. Rico Nasty)",
+      "artist": "Brooke Candy",
+      "has_synced": true,
+      "path": "select/16_FMU_(feat._Rico_Nasty)_Brooke_Candy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rico",
+      "artist": "Goodie Mob",
+      "has_synced": false,
+      "path": "select/17_Rico_Goodie_Mob.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RICO",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_RICO_NMIXX.txt"
+    }
+  ]
+}
